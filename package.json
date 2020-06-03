@@ -1,6 +1,6 @@
 {
   "homepage": "https://jahorinac.github.io/test-page",
-  "name": "01-firebase-react",
+  "name": "test-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
